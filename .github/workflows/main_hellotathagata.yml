@@ -66,4 +66,4 @@ jobs:
         with:
           app-name: 'HelloTathagata'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_34C69D724EBE49949544900B3F7DF1C0 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_E797467EFD0945F28DC96E6ABEC14F3C }}
